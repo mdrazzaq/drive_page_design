@@ -1,0 +1,51 @@
+.searchBox{
+	width: 700px;
+	margin-left: 110px;
+	margin-right: 100px;
+}
+.subHeader{
+	margin-left: 30px;
+	width: 100px;
+	border-radius: 20px;
+	border:2px solid #0000000d;
+}
+.iconsH{
+	float: right;
+	padding-right: 40px;
+	margin-top: -20px;
+	margin-right: 0px;
+}
+.icons{
+	float: right;
+	padding-right: 20px;
+	margin-top: -20px;
+}
+/*-----table style---*/
+.Table-hader{
+	border: 1px solid blue;
+}
+.File-Icon{
+	font-size: 20px;
+	color: gray;
+}
+ul{
+	list-style: none;
+}
+/*------table Style end-----*/
+.storageItem{
+	margin-left: -20px;
+}
+.progress{
+	height: 5px;
+}
+.card{
+	float: left;
+	width: 180px;
+	margin-left: 5px;
+}
+.list-item{
+	margin-left: -20px;
+}
+.leftIcon{
+	margin-top: 20px;
+}
